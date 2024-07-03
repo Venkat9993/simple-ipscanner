@@ -1,4 +1,4 @@
-// Simple ip scanner using  python  @Venkat9993
+#Simple ip scanner using  python  @Venkat9993
 import socket
 import sys
 import requests
